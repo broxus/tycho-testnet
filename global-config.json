@@ -2,117 +2,91 @@
   "bootstrap_peers": [
     {
       "id": "4445c18f06de737a393f7b40a60aab353d544747ce073fa6cfc52d66f4734141",
-      "address_list": [
-        "57.129.53.62:30000"
-      ],
+      "address_list": ["57.129.53.62:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "WaSZn9/toGg5Yjww8dGcduue/CVKWEOQWP1qA4INJBcqclQtOtnRWs6QivaCSmiCKp6ZDS/kbn99RI3TqlLzDA=="
     },
     {
       "id": "7ac6517a0feb958d8dae80ac237f91b3a8589dd489ad87ce94a22ad9b5ae58d4",
-      "address_list": [
-        "57.129.53.60:30000"
-      ],
+      "address_list": ["57.129.53.60:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "1G0IFfhshf4+Gy+t4cmfCpmHBMp9jvU/B8A0RWns3N9SPjwFyO0l68hpRnVbv8XVTfAyTELHQNGUliP1+DK3BA=="
     },
     {
       "id": "5727027000d675061ccc4c58fe721786160830f91059edce14637232f08f2577",
-      "address_list": [
-        "57.129.53.58:30000"
-      ],
+      "address_list": ["57.129.53.58:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "9pGSADMROuVYrIogKFj1ZIR/qwml2plJBbLW/UpQ1+jlEHs2xMn30EcRIU2IHdhIilGvR6vMcnP8hv+nCPdRAg=="
     },
     {
       "id": "23c7ab416ae964e1319a9a5998b2c5d1de0012fb892b8845d63e134f154195ca",
-      "address_list": [
-        "57.129.53.63:30000"
-      ],
+      "address_list": ["57.129.53.63:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "ZENu0J7kkdhebAND0EWl4msEub4ADw5OE4WRPDBkfY8hn3dX88cfZAWHUJMCRi7p3GyTOunp+18TP24Hrfw0Cg=="
     },
     {
       "id": "5d844f26ad6f2dcfe4f6cb7144f12383a839430537cd3b803fd2545f5021332c",
-      "address_list": [
-        "57.129.53.59:30000"
-      ],
+      "address_list": ["57.129.53.59:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "bNlOOV7Nxx4j2grN67eSMXPd/WSJ+e1viRnsxv/2DOQJa3YwQyH53k7MYKM2XBKWlUHJQ8qaMCPoH1GBsO5AAQ=="
     },
     {
       "id": "c0517795ed7073f64e1813759ee48206b160bb34b5b710b6ae581117d8b97208",
-      "address_list": [
-        "57.129.53.61:30000"
-      ],
+      "address_list": ["57.129.53.61:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "8CMPwgpXK1joXhnNIagsQN3XYkLNPwKQGUwPH1vi0NdHmF+SDY5hP3r8NTkS/pCzOgwdGYXSpmWwZkTuBDkQAw=="
     },
     {
-      "id": "308d59ef46794c908dbed640008c5d00c235199ef5c4c57c2c2220933323f23d",
-      "address_list": [
-        "57.129.53.57:30000"
-      ],
-      "created_at": 1730988147,
+      "id": "e2b45a37e04c8d57076b07cd941a1228b29ad507f3a2035ce6257da86b5c20dd",
+      "address_list": ["57.129.53.57:30000"],
+      "created_at": 1731088006,
       "expires_at": 4294967295,
-      "signature": "cqvIIZi8cGfkYL4DbDpoRsuTkUbME8hQA37lBEa1Ko/OK/E0PvrnGKAe2o0gHPs7H/VScyh+uzU1uoITx0WUDQ=="
+      "signature": "ZBFkFCVbWhtkWya32BmqkqDqliKvBwiSKYy3c3GI1vwfjRvwxlDwjpSSyh5LVGP/n1QUX781YRgdaZscxHcoAg=="
     },
     {
       "id": "91c4100b854da926623ff471e290161f6d3261955e3b213194b078df74cc1471",
-      "address_list": [
-        "79.137.100.38:30000"
-      ],
+      "address_list": ["79.137.100.38:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "6N5tPVKkTfsUji9G2iKO46jKQKIutxPGmDydENKOeloCnEp4Tgeb4IKLMogN77yDihbLJzqfv5PP9LA7dOjbCA=="
     },
     {
       "id": "3be9567a564b1b8fb65a3f346d98372e2cce3e9d1a47dc507a3a344853946e8d",
-      "address_list": [
-        "79.137.100.31:30000"
-      ],
+      "address_list": ["79.137.100.31:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "l+ZxfZYzyeIhwG8FjYyXUYfVsK4egEzT7hQn/ceafGeQGt1ebcGXdUxI4zp92mIIiSBbwUAcXy5MnAYmNX7zAA=="
     },
     {
       "id": "e8aa2faa4c53ff7ec9502049617d5032805e091343ed9ca5f7e92a2c36ac13a4",
-      "address_list": [
-        "79.137.100.39:30000"
-      ],
+      "address_list": ["79.137.100.39:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "fMIhDuVfbZWGYpOPtbKj1fRK2SvEAc1JVOtfdnWlTBFWJR6UU/wQvEdkD/VnRuHKL2oXzNRm7rRPS/ift8e9CQ=="
     },
     {
       "id": "bf019274b27d569095aeb293532b093f2b85021beeae9382658e374bf9cb2337",
-      "address_list": [
-        "79.137.100.30:30000"
-      ],
+      "address_list": ["79.137.100.30:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "Bp0+4AFUH6kw1nixPg6HtLMk++FCALpu/1XEp5kwGRQhQ9pq1LHpeIPSKsgxDiA8D8bXXYnw3BhYULyywjAZAw=="
     },
     {
       "id": "90e8fbfcfe6a4df178bd57858371c5e0bb400d5e611957e058d3c174ae39afed",
-      "address_list": [
-        "79.137.100.34:30000"
-      ],
+      "address_list": ["79.137.100.34:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "aZOLt1YLkCUhieFMCVynPor8ZL0F2+qCmdn4n3fQwGntiS6h8Trljfy1mUSQRP5zTIGoAkiCSh/WIbN85gguAw=="
     },
     {
       "id": "f6586cdc0143fe6f0f42d1bee5790b3572c2fb9ad2f5c441f92272a3397fa549",
-      "address_list": [
-        "79.137.100.33:30000"
-      ],
+      "address_list": ["79.137.100.33:30000"],
       "created_at": 1730988147,
       "expires_at": 4294967295,
       "signature": "0h84toVMIjyOt9j3UFW/8ZvSQSKyocDUfdawYd5V28ge7GOv1OofJdlssbdh/1oXtCG302iRox5Rw/Lfo14aDw=="
@@ -121,5 +95,20 @@
   "zerostate": {
     "root_hash": "795ea223590f5ffa6a687ba090d37c5db6481b9d55b4bce375b0b48568413bf7",
     "file_hash": "5e409bc128e785d56965294c99db2f8918005054d72c2d6a8c4080ee47ecf203"
+  },
+  "mempool": {
+    "start_round": 322400,
+    "genesis_time_millis": 1731105489352,
+    "clock_skew_millis": 5000,
+    "payload_batch_bytes": 786432,
+    "commit_history_rounds": 20,
+    "deduplicate_rounds": 140,
+    "max_consensus_lag_rounds": 210,
+    "payload_buffer_bytes": 52428800,
+    "broadcast_retry_millis": 150,
+    "download_retry_millis": 25,
+    "download_peers": 2,
+    "download_tasks": 260,
+    "sync_support_rounds": 840
   }
 }
