@@ -38,7 +38,7 @@ sudo apt install build-essential git libssl-dev zlib1g-dev pkg-config clang jq
 ```bash
 git clone https://github.com/broxus/tycho
 cd tycho
-git checkout tags/v0.1.2 -b mynode
+git checkout tags/v0.1.3 -b mynode
 cargo install --path ./cli --locked
 ```
 
@@ -130,11 +130,40 @@ tycho init --systemd --global-config https://testnet.tychoprotocol.com/global-co
 
   ```json
   {
+    "tycho_version": "0.1.3",
+    "tycho_build": "v0.1.3",
+    "public_addr": "1.2.3.4:30000",
+    "local_addr": "0.0.0.0:30000",
+    "adnl_id": "b947de73cff90aafe5ba17f17b94d05930e1eed8b64f332538ef9480bbfc42d4",
+    "collator": {
+      "supported_block_version": 50,
+      "supported_capabilities": [
+        "CapCreateStatsEnabled",
+        "CapBounceMsgBody",
+        "CapReportVersion",
+        "CapShortDequeue",
+        "CapFastStorageStat",
+        "CapInitCodeHash",
+        "CapOffHypercube",
+        "CapMyCode",
+        "CapFixTupleIndexBug",
+        "CapFullBodyInBounced",
+        "CapStorageFeeToTvm",
+        "CapsTvmBugfixes2022",
+        "CapWorkchains",
+        "CapStcontNewFormat",
+        "CapFastStorageStatBugfix",
+        "CapResolveMerkleCell",
+        "CapBounceAfterFailedAction",
+        "CapFeeInGasUnits",
+        "CapSuspendedList"
+      ]
+    },
     "init_mc_seqno": 0,
     "init_mc_block_id": "-1:8000000000000000:0:795ea223590f5ffa6a687ba090d37c5db6481b9d55b4bce375b0b48568413bf7:5e409bc128e785d56965294c99db2f8918005054d72c2d6a8c4080ee47ecf203",
-    "latest_mc_seqno": 1341,
-    "latest_mc_block_id": "-1:8000000000000000:1341:b88104daf5f7d6cdb3457722a0928463b671d2ab4a08c2e81603497b64f0e080:9ffc67faa8bdab9ffac05c4bbcdbb65323f193f60689e5bf668261cdfa526dd6",
-    "time_diff": 1,
+    "latest_mc_seqno": 294019,
+    "latest_mc_block_id": "-1:8000000000000000:294019:1bf1b3684c618a24dbad823453942695ff77a8cb29c7cdc9bb48f91c62bb5150:b7bbe2520bffa5bb02d9297d3f941253588e41e85e9575df4287ddd2d719a6d1",
+    "time_diff": 4,
     "is_synced": true,
     "in_current_vset": false,
     "in_next_vset": false,
