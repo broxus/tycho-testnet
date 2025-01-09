@@ -95,20 +95,5 @@
   "zerostate": {
     "root_hash": "795ea223590f5ffa6a687ba090d37c5db6481b9d55b4bce375b0b48568413bf7",
     "file_hash": "5e409bc128e785d56965294c99db2f8918005054d72c2d6a8c4080ee47ecf203"
-  },
-  "mempool": {
-    "start_round": 10987164,
-    "genesis_time_millis": 1734448044347,
-    "clock_skew_millis": 5000,
-    "payload_batch_bytes": 786432,
-    "commit_history_rounds": 20,
-    "deduplicate_rounds": 140,
-    "max_consensus_lag_rounds": 210,
-    "payload_buffer_bytes": 52428800,
-    "broadcast_retry_millis": 150,
-    "download_retry_millis": 25,
-    "download_peers": 2,
-    "download_tasks": 260,
-    "sync_support_rounds": 840
   }
 }
