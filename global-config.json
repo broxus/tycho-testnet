@@ -95,5 +95,9 @@
   "zerostate": {
     "root_hash": "68ce2ad5df408d4776d91467ff1b88a77e059a2cbff404dd6870154d78899ea9",
     "file_hash": "538111b4d0f2cda3b7d5e0389c74a0f5e6028583d92cf0f85d6f39a39f5a8551"
+  },
+  "mempool": {
+    "start_round": 4942801,
+    "genesis_millis": 1739555504169
   }
 }
